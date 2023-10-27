@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3492cd0f-acde-4889-9888-3ce41b29b4c6" name="变更" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp2/fmm_word_seg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp2/lexicon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp2/svd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp3/convert_t2s.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp3/t2s.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp3/wikidata_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/cnn_sent_polarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/lstm_postag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/lstm_sent_polarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/mlp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/mlp_embedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/mlp_sent_polarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/mlp_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/transformer_postag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/transformer_sent_polarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp4/vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/cbow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/evaluate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/ffnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/glove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/sgns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/skipgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp5/vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp6/train_elmo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp6/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp6/vocab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp7/finetune_bert_mrc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp7/finetune_bert_ner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp7/finetune_bert_spc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp7/finetune_bert_ssc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/chp8/textbrewer_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/卷积神经网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/循环神经网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/情感分类实战.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/基于预训练模型的方法/神经网络和激活函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/hungry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/img_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/man.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/simple_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/sin_cos_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch01/sin_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch02/and_gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch02/nand_gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch02/or_gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch02/xor_gate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/mnist_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/neuralnet_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/neuralnet_mnist_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/relu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/sample_weight.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/sig_step_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch03/step_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch04/gradient_1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch04/gradient_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch04/gradient_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch04/gradient_simplenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch04/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/buy_apple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/buy_apple_orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/gradient_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/layer_naive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch05/two_layer_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/batch_norm_gradient_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/batch_norm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/hyperparameter_optimization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/optimizer_compare_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/optimizer_compare_naive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/overfit_dropout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/overfit_weight_decay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/weight_init_activation_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch06/weight_init_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/apply_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/gradient_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/params.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/simple_convnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/train_convnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch07/visualize_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/awesome_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/deep_convnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/deep_convnet_params.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/half_float_network.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/misclassified_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/深度学习入门/ch08/train_deepnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap1实践基础/实践基础.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap2机器学习概述/nndl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap2机器学习概述/nndl/op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap2机器学习概述/nndl/opitimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap2机器学习概述/机器学习概述-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap2机器学习概述/机器学习概述-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/activation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/metric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/opitimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/nndl/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/线性模型-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap3线性模型/线性模型-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/activation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/metric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/opitimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/nndl/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/前馈神经网络-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap4前馈神经网络/前馈神经网络-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/activation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/metric.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/opitimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/nndl/tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/卷积神经网络-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap5卷积神经网络/卷积神经网络-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap6循环神经网络/nndl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap6循环神经网络/循环神经网络-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap6循环神经网络/循环神经网络-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap7网络优化与正则化/nndl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap7网络优化与正则化/nndl/nndl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap7网络优化与正则化/nndl/op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap7网络优化与正则化/网络优化与正则化.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap8注意力机制/nndl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap8注意力机制/注意力机制-上.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/神经网络和深度学习/chap8注意力机制/注意力机制-下.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch01/forward_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch01/show_spiral_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch01/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch01/train_custom_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch01/two_layer_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/count_method_big.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/count_method_small.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/most_similar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/ppmi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/show_ptb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch02/similarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch03/cbow_predict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch03/simple_cbow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch03/simple_skip_gram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch03/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/cbow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/cbow_params.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/negative_sampling_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/skip_gram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch04/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch05/simple_rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch05/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch05/train_custom_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/Rnnlm.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/better_rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/clip_grads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/rnn_gradient_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/train_better_rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch06/train_rnnlm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/generate_better_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/generate_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/peeky_seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/show_addition_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch07/train_seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch08/AttentionSeq2seq.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch08/attention_layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch08/attention_seq2seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch08/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ch08/visualize_attention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/base_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/np.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/time_layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/common/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/addition.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/date.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/ptb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/dataset/spiral.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.test.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.train.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.valid.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.valid.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonProject/自然语言进阶/ptb/ptb.vocab.pkl" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="acd41247-afb5-4ecb-9d2e-56b22f6471f0" />
+        <option name="url" value="https://github.com/tyler326/learn.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XLEHY3lPzgBtre2mcmGEzeNisF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3492cd0f-acde-4889-9888-3ce41b29b4c6" name="变更" comment="" />
+      <created>1698399872790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698399872790</updated>
+      <workItem from="1698399875863" duration="2172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
